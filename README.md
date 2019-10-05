@@ -1,2 +1,2 @@
 # the-web-developer-bootcamp
-the web developer bootcamp from udemy
+this repository is for the web developer bootcamp from udemy

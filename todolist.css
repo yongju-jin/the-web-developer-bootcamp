@@ -1,0 +1,26 @@
+body {
+    background: orange;
+}
+
+li {
+    border: 2px red solid;
+}
+
+#walk {
+    background: blue;
+    color: white;
+}
+
+#buy {
+    background: green;    
+    color: grey;
+}
+
+#finish {
+    background: purple;
+    color: lightseagreen;
+}
+
+.process {
+    text-decoration: line-through;
+}

@@ -1,3 +1,25 @@
 h1 {
     color: tomato;
+    background: turquoise;
+}
+
+p:nth-child(1) {
+    color: teal;
+    background: thistle;
+}
+
+p:nth-child(2) {
+    background: url(https://image.shutterstock.com/image-photo/walnut-wood-texture-600w-524921872.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p:nth-child(3) {
+    border-color: palevioletred;
+    border-width: 1em;
+    border-style: dashed;
+}
+
+p:nth-child(4) {
+    border: 1em solid blue;
 }

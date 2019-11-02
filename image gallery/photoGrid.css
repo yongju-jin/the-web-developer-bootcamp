@@ -1,0 +1,14 @@
+div {
+    font-family: 'Raleway';
+    font-weight: bold;
+    font-size: 3.5rem;
+    margin-left: 1.66%;
+    border-bottom: 2px lightgray solid;
+    width: 30%;
+    padding-bottom: 0.8rem;
+}
+img {
+    width: 30%; 
+    float: left;
+    margin: 1.66%;
+}

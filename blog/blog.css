@@ -1,0 +1,31 @@
+#total {
+    width: 70%;
+    margin: 1rem auto;
+    border: 1rem solid lightgray;
+}
+
+.contentsContainer {
+    margin: 1rem;
+    border-bottom: 0.1rem solid lightgray;
+}
+
+.date {
+    font-size: 1.3rem;
+    letter-spacing: 0.2rem;
+    color: dodgerblue;
+    text-transform: uppercase;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.summary {
+    border-left: 0.3rem solid lightgray;
+    padding-left: 0.3rem;
+}
+
+#total .contentsContainer:last-child {
+    border-bottom: none;
+}
